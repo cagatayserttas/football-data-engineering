@@ -1,0 +1,11 @@
+# .gitignore içeriği
+*.pyc
+__pycache__/
+.env
+data/raw/*
+data/processed/*
+*.db
+.DS_Store
+.ipynb_checkpoints/
+venv/
+env/
