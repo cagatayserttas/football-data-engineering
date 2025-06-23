@@ -8,7 +8,7 @@ Premier League 2023/24 sezonunun veri mühendisliği ve analiz projesi. ETL pipe
 
 ## 📸 Dashboard Görüntüleri
 
-[Dashboard ekran görüntülerini buraya ekleyebilirsiniz]
+
 
 ## 🚀 Özellikler
 
@@ -76,28 +76,6 @@ Premier League 2023/24 sezonunun veri mühendisliği ve analiz projesi. ETL pipe
 
 -streamlit run dashboard/app.py
 
-## 📁 Proje Yapısı
-
-football-data-engineering/
-│
-├── data/
-│ ├── raw/ # Ham veriler (JSON)
-│ ├── processed/ # İşlenmiş veriler (CSV)
-│ └── football_data.db # SQLite veritabanı
-│
-├── src/
-│ ├── extractors/ # API veri çekme
-│ ├── transformers/ # Veri dönüştürme
-│ ├── loaders/ # Veritabanı yükleme
-│ └── database/ # Veritabanı şeması
-│
-├── dashboard/
-│ └── app.py # Streamlit dashboard
-│
-├── configs/
-│ └── config.py # Konfigürasyon
-│
-└── notebooks/ # Jupyter notebooks
 
 ## 📊 Veritabanı Şeması
 
