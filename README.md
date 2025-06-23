@@ -1,4 +1,4 @@
-# ⚽ Football Data Engineering Project
+# ⚽ Kick Metrics Data Engineering Project
 
 Premier League 2023/24 sezonunun veri mühendisliği ve analiz projesi. ETL pipeline'ı, veritabanı ve interaktif dashboard içerir.
 
